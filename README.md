@@ -1,2 +1,2 @@
 # github-agent-test
-still in testing phasee
+still in testing phase

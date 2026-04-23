@@ -1,0 +1,19 @@
+# Docs
+*.md @roshinapriyadarshini @Aswin0802
+docs/* @roshinapriyadarshini @Aswin0802
+
+# Backend
+*.py @roshinapriyadarshini @Aswin0802
+backend/* @roshinapriyadarshini @Aswin0802
+
+# Tests
+tests/* @roshinapriyadarshini @Aswin0802
+
+# Frontend
+*.js @Aswin0802
+*.ts @Aswin0802
+frontend/* @Aswin0802
+
+# Config
+.github/* @roshinapriyadarshini
+*.yml @roshinapriyadarshini

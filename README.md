@@ -1,9 +1,6 @@
-# PR Review Bot 🚀
-
+# PR Review Bot 
 This repository contains an automated GitHub PR review system powered by an LLM.
-
 ## Features
-
 * 🤖 Automated pull request reviews
 * 🔍 Detects issues like:
 
@@ -54,7 +51,4 @@ This repository contains an automated GitHub PR review system powered by an LLM.
 * Avoid hardcoding sensitive values
 * Keep PRs small for better analysis
 
----
-
-Made with ❤️ for automated code reviews.
 
